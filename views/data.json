@@ -1,0 +1,48 @@
+[
+  {  
+    "id" : "one",
+    "occupation" : "architect",
+    "address" : {
+    "street" : "123 Main St",
+    "city" : "CityTown",
+    "Country" : "USA"
+   }
+ },
+{  
+    "id" : "three",
+    "occupation" : "engineer",
+    "address" : {
+    "street" : "173 Main St",
+    "city" : "NewYork",
+    "Country" : "USA"
+   }
+ },
+{  
+    "id" : "five",
+    "occupation" : "Driver",
+    "address" : {
+    "street" : "12rt3 Main St",
+    "city" : "Gurgaon",
+    "Country" : "India"
+   }
+ },
+{  
+    "id" : "six",
+    "occupation" : "police",
+    "address" : {
+    "street" : "123 hyum St",
+    "city" : "CityTown",
+    "Country" : "India"
+   }
+ },
+ {  
+    "id" : "two",
+    "occupation" : "farmer",
+    "address" : {
+    "street" : "Narendernagar Main St",
+    "city" : "morena",
+    "Country" : "India"
+   }
+ }    
+]
+  
